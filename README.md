@@ -6,10 +6,21 @@ This is the github for my Project supervised by Andrew Krause and Denis Patterso
 
 It includes my code for the Kuramoto Model and the Vicsek Model.
 
-KuramotoModel = The Kuramoto Model; produces graphs : r-t, circle plot, histogram of final omegas
+Kuramoto Model 
+A model looking at synchronised oscillators
 
-KuramotoKVals = Runs the Kuramoto Model over a range of K values; produces graphs : r-t overlays, r-K
+- KuramotoModel = The Kuramoto Model; produces graphs : r-t, circle plot, histogram of final omegas, omega-t.
 
-KuramotoConstW = Runs the Kuramoto Model; produces graphs : Moving circle plot, r-t
+- KuramotoKVals = Runs the Kuramoto Model over a range of K values; produces graphs : r-t overlays, r-K.
 
-KuramotoWVals = Runs the Kuramoto Model over a range of W values; produces graphs : r-t overlays, r-W
+- KuramotoConstW = Runs the Kuramoto Model; produces graphs : Moving circle plot, r-t.
+
+- KuramotoWVals = Runs the Kuramoto Model over a range of W values; produces graphs : r-t overlays, r-W.
+
+
+Vicsek Model
+A model looking at the directions of particles in a swarm.
+
+- VicsekModel = The Vicsek Model; produces graphs : Moving plot, stationary overlay plot.
+
+- VicsekNuVals = Runs the Vicsek Model over a range of Nu values; produces graphs : W-Nu, W-t overlays.
