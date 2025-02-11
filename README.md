@@ -13,7 +13,7 @@ A model looking at synchronised oscillators
 
 - KuramotoKVals = Runs the Kuramoto Model over a range of K values; produces graphs : r-t overlays, r-K.
 
-- KuramotoConstW = Runs the Kuramoto Model; produces graphs : Moving circle plot, r-t.
+- KuramotoConstW = Runs the Kuramoto Model; produces graphs : Moving circle plot, r-t. Uses PlotCircle and PlotR.
 
 - KuramotoWVals = Runs the Kuramoto Model over a range of W values; produces graphs : r-t overlays, r-W.
 
